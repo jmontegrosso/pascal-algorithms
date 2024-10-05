@@ -2,7 +2,6 @@ unit USort;
 
 interface
 
-uses Classes;
 
 type
   TSort = class
